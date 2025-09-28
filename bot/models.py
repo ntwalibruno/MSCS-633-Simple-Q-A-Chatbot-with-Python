@@ -1,0 +1,1 @@
+# Bot app - no models needed for terminal chat
